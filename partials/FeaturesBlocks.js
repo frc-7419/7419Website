@@ -51,7 +51,7 @@ function FeaturesBlocks() {
                 Recent News
               </h1>
               <p className="text-xl text-gray-600 item-body px-2 ">
-                We had a wonderful season competing at Central Valley Regional, Idaho Regional, and Silicon Valley Regional, see you this offseason!
+                We had a wonderful season competing at Silicon Valley Regional, Arizona Valley East, East Bay Regional, and Worlds!
               </p>
             </div>
           </div>
@@ -67,7 +67,7 @@ function FeaturesBlocks() {
               <p className="text-gray-600 text-center">
                 Our team is mentor driven but student organized. We help train,
                 elevate, and support each other while holding ourselves
-                accountable.
+                accountable. We foster an environment that encourages growth.
               </p>
             </div>
 
